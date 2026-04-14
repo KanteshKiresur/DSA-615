@@ -1,8 +1,4 @@
-/*Insert all given Router IDs into a Binary Search Tree (BST).
-If any input is -1, print "Invalid input" and stop.
-Insert the new Router ID into the BST.
-Perform inorder traversal (Left → Root → Right).
-Print the routing table in sorted ascending order.*/
+
 #include<stdio.h>
 #include<stdlib.h>
 typedef struct node
